@@ -2,7 +2,7 @@
 
 ## Usage
 
-### `./.env`
+##### ./.env example
 
 ```dotenv
 VITE_ACCESS_TOKEN=OAuth_Token
